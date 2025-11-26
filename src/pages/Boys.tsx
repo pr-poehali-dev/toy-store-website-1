@@ -4,11 +4,11 @@ import Icon from '@/components/ui/icon';
 
 const Boys = () => {
   const boysProducts = [
-    { id: 1, title: 'Робот-трансформер Optimus', price: 2990, image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=500' },
-    { id: 2, title: 'Конструктор LEGO Technic', price: 5990, image: 'https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=500' },
-    { id: 3, title: 'Радиоуправляемый джип', price: 3990, image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500' },
-    { id: 4, title: 'Набор Hot Wheels', price: 1990, image: 'https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?w=500' },
-    { id: 5, title: 'Бластер Nerf Elite', price: 2490, image: 'https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500' },
+    { id: 1, title: 'Робот-трансформер Optimus', price: 2990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/2207d6e7-8852-4c29-b0a0-6d00becb5f97.jpg' },
+    { id: 2, title: 'Конструктор LEGO Technic', price: 5990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/3ba6a52a-496e-43bb-9354-a59f517991b4.jpg' },
+    { id: 3, title: 'Радиоуправляемый джип', price: 3990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/3669f510-7963-4d66-bf01-d6756f3003e3.jpg' },
+    { id: 4, title: 'Набор Hot Wheels', price: 1990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/58e6a0d9-1157-48de-ab4b-1db961131f6a.jpg' },
+    { id: 5, title: 'Бластер Nerf Elite', price: 2490, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/00c2685a-b1ad-4ffe-9ec8-230397bc5963.jpg' },
     { id: 6, title: 'Железная дорога', price: 4490, image: 'https://images.unsplash.com/photo-1544816155-12df9643f363?w=500' },
     { id: 7, title: 'Вертолет на управлении', price: 3490, image: 'https://images.unsplash.com/photo-1520004434532-668416a08753?w=500' },
     { id: 8, title: 'Конструктор космическая станция', price: 6990, image: 'https://images.unsplash.com/photo-1614680376739-414d95ff43df?w=500' },

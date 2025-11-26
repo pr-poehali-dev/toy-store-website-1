@@ -6,12 +6,12 @@ import Icon from '@/components/ui/icon';
 
 const Home = () => {
   const popularProducts = [
-    { id: 1, title: 'Робот-трансформер', price: 2990, image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=500', category: 'boys' as const },
-    { id: 2, title: 'Кукла Baby Born', price: 3490, image: 'https://images.unsplash.com/photo-1560582861-45078880e48e?w=500', category: 'girls' as const },
-    { id: 3, title: 'Конструктор LEGO City', price: 4990, image: 'https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=500', category: 'boys' as const },
-    { id: 4, title: 'Мягкая игрушка Единорог', price: 1490, image: 'https://images.unsplash.com/photo-1530325553241-4f6e7690cf36?w=500', category: 'girls' as const },
-    { id: 5, title: 'Радиоуправляемая машина', price: 3990, image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500', category: 'boys' as const },
-    { id: 6, title: 'Набор для творчества', price: 1990, image: 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=500', category: 'girls' as const },
+    { id: 1, title: 'Робот-трансформер', price: 2990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/2207d6e7-8852-4c29-b0a0-6d00becb5f97.jpg', category: 'boys' as const },
+    { id: 2, title: 'Кукла Baby Born', price: 3490, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/697c7017-d698-4fc8-9c3f-7aef3bcbf118.jpg', category: 'girls' as const },
+    { id: 3, title: 'Конструктор LEGO City', price: 4990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/7c759a15-7bfe-45e1-80f5-951f32d2a308.jpg', category: 'boys' as const },
+    { id: 4, title: 'Мягкая игрушка Единорог', price: 1490, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/cee5de17-2b9e-4a85-8ab5-fa1a302ec0c3.jpg', category: 'girls' as const },
+    { id: 5, title: 'Радиоуправляемая машина', price: 3990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/3669f510-7963-4d66-bf01-d6756f3003e3.jpg', category: 'boys' as const },
+    { id: 6, title: 'Набор для творчества', price: 1990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/3934f426-61ed-4e24-a1cf-4e9524d90374.jpg', category: 'girls' as const },
   ];
 
   return (
