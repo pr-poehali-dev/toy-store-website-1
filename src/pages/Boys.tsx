@@ -6,7 +6,7 @@ const Boys = () => {
   const boysProducts = [
     { id: 1, title: 'Робот-трансформер Optimus', price: 2990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/2207d6e7-8852-4c29-b0a0-6d00becb5f97.jpg' },
     { id: 2, title: 'Конструктор LEGO Technic', price: 5990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/3ba6a52a-496e-43bb-9354-a59f517991b4.jpg' },
-    { id: 3, title: 'Радиоуправляемый джип', price: 3990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/064609ec-1623-4531-920d-061af226d584.jpg' },
+    { id: 3, title: 'Радиоуправляемый джип', price: 3990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/5c2fb5d6-48b1-4dc4-a4b4-699b7b1ba84b.jpg' },
     { id: 4, title: 'Набор Hot Wheels', price: 1990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/58e6a0d9-1157-48de-ab4b-1db961131f6a.jpg' },
     { id: 5, title: 'Бластер Nerf Elite', price: 2490, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/00c2685a-b1ad-4ffe-9ec8-230397bc5963.jpg' },
     { id: 6, title: 'Железная дорога', price: 4490, image: 'https://images.unsplash.com/photo-1544816155-12df9643f363?w=500' },
