@@ -12,7 +12,7 @@ const Girls = () => {
     { id: 6, title: 'Кукла LOL Surprise', price: 2990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/4c8ac8f2-270c-494e-82d0-fe7be5701bf8.jpg' },
     { id: 7, title: 'Плюшевый мишка', price: 1790, image: 'https://images.unsplash.com/photo-1551061613-459c2e9bf39d?w=500' },
     { id: 8, title: 'Набор косметики для детей', price: 2290, image: 'https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500' },
-    { id: 9, title: 'Интерактивная пони', price: 3990, image: 'https://images.unsplash.com/photo-1589883661923-6476cb0ae9f2?w=500' },
+    { id: 9, title: 'Интерактивная пони', price: 3990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/65df1f06-a05e-406f-98d5-2d15ac65d824.jpg' },
   ];
 
   return (
