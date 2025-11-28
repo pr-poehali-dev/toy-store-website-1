@@ -10,7 +10,7 @@ const Home = () => {
     { id: 2, title: 'Кукла Baby Born', price: 3490, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/697c7017-d698-4fc8-9c3f-7aef3bcbf118.jpg', category: 'girls' as const },
     { id: 3, title: 'Конструктор LEGO City', price: 4990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/7c759a15-7bfe-45e1-80f5-951f32d2a308.jpg', category: 'boys' as const },
     { id: 4, title: 'Мягкая игрушка Единорог', price: 1490, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/cee5de17-2b9e-4a85-8ab5-fa1a302ec0c3.jpg', category: 'girls' as const },
-    { id: 5, title: 'Радиоуправляемая машина', price: 3990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/3669f510-7963-4d66-bf01-d6756f3003e3.jpg', category: 'boys' as const },
+    { id: 5, title: 'Радиоуправляемый джип', price: 3990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/04ad4ea8-f39f-4e5f-b2b6-f5bab5082555.jpg', category: 'boys' as const },
     { id: 6, title: 'Набор для творчества', price: 1990, image: 'https://cdn.poehali.dev/projects/167001b8-6670-417d-8bd7-654ad66d60a3/files/3934f426-61ed-4e24-a1cf-4e9524d90374.jpg', category: 'girls' as const },
   ];
 
